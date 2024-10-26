@@ -26,6 +26,10 @@ Fonte: Fiquem Sabendo
 Conjunto de dados: Veja onde estão os profissionais do Mais Médicos (e quantos são)
 Link: https://fiquemsabendo.com.br/saude/veja-onde-estao-os-profissionais-do-mais-medicos-e-quantos-sao
 
+Canva:https://www.canva.com/design/DAGTXmCpi5o/Su5EYpX37-wabIzxirWtEg/view?utm_content=DAGTXmCpi5o&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+Tableau: https://public.tableau.com/app/profile/joyce.lima/viz/MaisMdicosTableau/Incio
+
 **Ferramentas Utilizadas**
 
 Python: Linguagem de programação para análise de dados
